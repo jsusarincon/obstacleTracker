@@ -17,7 +17,7 @@ Steps:
 
 4. Go inside it
 
-    cd build-dir
+    cd build
 
 5. then run cmake and point to the parent directory
     
